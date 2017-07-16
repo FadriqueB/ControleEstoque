@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Controle de Estoque</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act_cad_itens">Itens</string>
+    <string name="CÓDIGO">txtCod</string>
+    <string name="txtCod">CÓDIGO</string>
+    <string name="txtNome">NOME</string>
+    <string name="txtQuant">QUANTIDADE</string>
+    <string name="txtEnt_Sai">Entrada/Saída</string>
+    
+    <string name="lbl_salvar">Salvar</string>
+    <string name="lbl_alterar">Alterar</string>
+    <string name="lbl_excluir">Excluir</string>
+    <string name="title_activity_act_anota">Anotações</string>
+</resources>
